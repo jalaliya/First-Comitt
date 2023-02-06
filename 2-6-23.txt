@@ -2,4 +2,10 @@ hi today is monday..practising git hub
 
 fixing the small error.Adding this line of code
 
+<<<<<<< HEAD
 big fix code
+=======
+Adding another small fix code line.
+>>>>>>> small-fix
+
+fixed the conflicts
