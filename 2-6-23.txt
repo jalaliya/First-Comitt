@@ -32,3 +32,7 @@ hasna haaniya
 Adding thowfika family
 thowfi shahul
 xxxxxxxxxxxxxx
+
+created branch from origin and trying to update the local git
+
+created branch from remote and tryin to merge in git hub remotely
